@@ -1,6 +1,7 @@
 Project Overview
 
 CryptoniteRSA is a C++ implementation of the RSA cryptosystem. This project provides a hands-on demonstration of RSA encryption and decryption mechanisms using predefined prime numbers to generate public and private keys. Designed to elucidate the cryptographic processes behind RSA, CryptoniteRSA ensures secure communication by effectively demonstrating the encryption and decryption of messages.
+
 Features
 
     Key Pair Generation: Automatically computes RSA modulus, totient, and both the public and private keys using selected prime numbers.
@@ -61,6 +62,7 @@ The program clearly outputs:
 Contributions
 
 Interested in contributing? Fork the project, make your desired changes, and propose a pull request.
+
 License
 
 CryptoniteRSA is distributed under the MIT License. The LICENSE file in the repository contains the licensing details.
